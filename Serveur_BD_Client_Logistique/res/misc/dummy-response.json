@@ -1,0 +1,383 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmVgQOx6WuEwR426UPyrBiPY",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJbVrpeni9uEwRZA_dJt23ZJs",
+         "types" : [ "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "EjI1NjU1IEJvdWxldmFyZCBIZW5yaS1Cb3VyYXNzYSwgUXXDqWJlYywgUUMsIENhbmFkYSIbEhkKFAoSCUMIh3h5vbhMEWhcSTBzLiFXEJcs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJt_MyFmq9uEwRLfg9g6OJqUs",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJmVgQOx6WuEwR426UPyrBiPY",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 46.8618885,
+               "lng" : -71.2220305
+            },
+            "southwest" : {
+               "lat" : 46.8344234,
+               "lng" : -71.26709889999999
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.1 km",
+                  "value" : 3057
+               },
+               "duration" : {
+                  "text" : "6 mins",
+                  "value" : 377
+               },
+               "end_address" : "5200 Boulevard Henri-Bourassa, Québec, QC G1H 3A8, Canada",
+               "end_location" : {
+                  "lat" : 46.8506556,
+                  "lng" : -71.24814529999999
+               },
+               "start_address" : "1715 Chemin de la Canardière, Québec, QC G1J 2E2, Canada",
+               "start_location" : {
+                  "lat" : 46.8378931,
+                  "lng" : -71.2220305
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 379
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 74
+                     },
+                     "end_location" : {
+                        "lat" : 46.8346482,
+                        "lng" : -71.2234957
+                     },
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e on \u003cb\u003eChemin de la Canardière\u003c/b\u003e toward \u003cb\u003eAvenue Maufils\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "y_{|GtpuqLr@XhCz@bCv@pBp@XLRXp@R`@LXHv@P"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8378931,
+                        "lng" : -71.2220305
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.7 km",
+                        "value" : 2678
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 303
+                     },
+                     "end_location" : {
+                        "lat" : 46.8506556,
+                        "lng" : -71.24814529999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "qkz|GzyuqLg@dBKXITOZSb@Yj@Ud@]l@EFaBnCaBhC{@tAsAtBm@|@U`@}BlDuDxF{BrDmBtCCFKLYd@Yb@eBpC{A`Cq@`Ay@lAW^Y\\WX[\\i@j@g@f@i@b@g@`@g@^i@^i@Zm@\\wDnBa@TKDk@\\uA|@_Av@}AxASTQRo@n@wA`BGJORGHA@QV?@A@EHMPEHKL]l@Wh@OZKR[r@Wj@ABUh@]~@Uj@ABUr@GRQn@KXKd@g@vBMn@Kj@Kr@W|AIpAUfBCTKdAIdAEv@GlAItAKnC"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8346482,
+                        "lng" : -71.2234957
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "0.4 km",
+                  "value" : 387
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 39
+               },
+               "end_address" : "5655 Boulevard Henri-Bourassa, Québec, QC G1H, Canada",
+               "end_location" : {
+                  "lat" : 46.8513595,
+                  "lng" : -71.25310270000001
+               },
+               "start_address" : "5200 Boulevard Henri-Bourassa, Québec, QC G1H 3A8, Canada",
+               "start_location" : {
+                  "lat" : 46.8506556,
+                  "lng" : -71.24814529999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 374
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 37
+                     },
+                     "end_location" : {
+                        "lat" : 46.85131459999999,
+                        "lng" : -71.2529437
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e toward \u003cb\u003e3e Av E\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "so}|G|szqLOpEALAZIrCA@Ab@Cj@G`AG~@I|@OlAAHIl@In@[dB"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8506556,
+                        "lng" : -71.24814529999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "13 m",
+                        "value" : 13
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 2
+                     },
+                     "end_location" : {
+                        "lat" : 46.8513595,
+                        "lng" : -71.25310270000001
+                     },
+                     "html_instructions" : "Continue straight to stay on \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "us}|Gzq{qLI^"
+                     },
+                     "start_location" : {
+                        "lat" : 46.85131459999999,
+                        "lng" : -71.2529437
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "1.6 km",
+                  "value" : 1596
+               },
+               "duration" : {
+                  "text" : "3 mins",
+                  "value" : 167
+               },
+               "end_address" : "7900 Boulevard Henri-Bourassa, Québec, QC G1H 3G3, Canada",
+               "end_location" : {
+                  "lat" : 46.8618885,
+                  "lng" : -71.26709889999999
+               },
+               "start_address" : "5655 Boulevard Henri-Bourassa, Québec, QC G1H, Canada",
+               "start_location" : {
+                  "lat" : 46.8513595,
+                  "lng" : -71.25310270000001
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1.6 km",
+                        "value" : 1596
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 167
+                     },
+                     "end_location" : {
+                        "lat" : 46.8618885,
+                        "lng" : -71.26709889999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e toward \u003cb\u003e58e Rue E\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "_t}|Gzr{qLKh@AJ[rAMb@e@zAQh@]`Ae@hAo@rAa@t@[h@y@lAUXaAnA_BlBwAdByAfB}AnBkA|AKNKN[ZKHONY^kAzAe@d@iAjBaAfA?@IVe@b@OPkAvAeBvBc@l@y@dAa@h@cCxCqAdBc@h@gCxCi@v@aAnAAB"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8513595,
+                        "lng" : -71.25310270000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            },
+            {
+               "distance" : {
+                  "text" : "5.1 km",
+                  "value" : 5089
+               },
+               "duration" : {
+                  "text" : "9 mins",
+                  "value" : 569
+               },
+               "end_address" : "1715 Chemin de la Canardière, Québec, QC G1J 2E2, Canada",
+               "end_location" : {
+                  "lat" : 46.8378931,
+                  "lng" : -71.2220305
+               },
+               "start_address" : "7900 Boulevard Henri-Bourassa, Québec, QC G1H 3G3, Canada",
+               "start_location" : {
+                  "lat" : 46.8618885,
+                  "lng" : -71.26709889999999
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 611
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 65
+                     },
+                     "end_location" : {
+                        "lat" : 46.8576144,
+                        "lng" : -71.26204349999999
+                     },
+                     "html_instructions" : "Head \u003cb\u003esoutheast\u003c/b\u003e on \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e toward \u003cb\u003e78e Rue E\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "yu_}Gjj~qL@C`AoAh@w@fCyCb@i@pAeBbCyC`@i@x@eAb@m@dBwBjAwANQd@c@"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8618885,
+                        "lng" : -71.26709889999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 159
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 46.8563584,
+                        "lng" : -71.2610675
+                     },
+                     "html_instructions" : "\u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e turns slightly \u003cb\u003eright\u003c/b\u003e and becomes \u003cb\u003eAvenue Isaac Bédard\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "a{~|Gvj}qLPABA`AaA`D{B"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8576144,
+                        "lng" : -71.26204349999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 102
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 8
+                     },
+                     "end_location" : {
+                        "lat" : 46.8558819,
+                        "lng" : -71.25993129999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e toward \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "gs~|Gtd}qLL]FMBMH[J]DUHSDMHQNe@"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8563584,
+                        "lng" : -71.2610675
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.8 km",
+                        "value" : 3801
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 401
+                     },
+                     "end_location" : {
+                        "lat" : 46.8345044,
+                        "lng" : -71.22356449999999
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eBoulevard Henri-Bourassa\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "gp~|Gp}|qLJOJOjA}A|AoBxAgBvAeB~AmB`AoATYx@mAZi@`@u@n@sAd@iA\\aAPi@d@{ALc@ZsA@KTiAZeBHo@Hm@@INmAH}@F_AFaABk@@c@@AHsC@[@MZaJHuAFmADw@HeAJeABUTgBXeAPaAN{@TgALm@?ALm@ZsAX{@HUXy@JYNc@\\}@Vk@~@yB@Cp@sAR[BEJQDIFK@AJODG@A?A@AXc@DGhBsBTU`@c@bAaAPOTQx@m@v@g@n@]zBiAtBeAn@_@|@i@x@k@v@o@HG`@_@FGr@q@ZYDG`@c@`@g@d@m@NUXc@tD_Gl@cAXe@Xc@DINW|BkD|BmDpDeG`CqD?AtA}B^i@Zg@z@uAn@_Ar@iAvAsBlA{BdAkCv@aC"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8558819,
+                        "lng" : -71.25993129999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 416
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 75
+                     },
+                     "end_location" : {
+                        "lat" : 46.8378931,
+                        "lng" : -71.2220305
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eChemin de la Canardière\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "sjz|GfzuqLN_@]MSIeB_@q@O]BYMqBq@cCw@iC{@s@Y"
+                     },
+                     "start_location" : {
+                        "lat" : 46.8345044,
+                        "lng" : -71.22356449999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "y_{|GtpuqL|DtAtFhBXLRXrA`@pAZs@~BgA`Cs@rAgBvC_HrKsCnEqHlLwCpEmGxJkBjCs@v@qArAqAdAqA~@wAx@yEdCw@b@uA|@_Av@qBnBaAbA_BlBW\\SZ[f@qA`CaAvBkAxC{@pCs@|CYzAc@pCIpAUfBOzAO|Bm@dOO~DUpEe@bE{@~E]~As@~Bo@jBuA|C}@~AoAfBsIjKaElFg@d@i@n@kAzAe@d@iAjBaAfAIXu@t@qDnE}ArB{GrIgCxCi@v@cArAbAsAh@w@fCyCtBoCdDcE|AsBpDoEt@u@TC`AaA`D{BTk@^}Ah@yA`EmFrIkKnAgB|@_BtA}Cn@kBr@_C\\_Bp@oDR}Ab@uENsCh@_P`@aHN{ATgBXeA`@}Bb@uBLo@t@oC~@mCvBgFtAgCd@u@^k@~BiCdBeBf@a@pBuAjDgBdDeBvBuAjB_BvBwBpBoCvGmKpG{JpDeG`CqDtA_CfDgFjC}DlA{BdAkCfAaDq@WwCo@]BYMuFiB}DuA"
+         },
+         "summary" : "Boulevard Henri-Bourassa",
+         "warnings" : [],
+         "waypoint_order" : [ 1, 0, 2 ]
+      }
+   ],
+   "status" : "OK"
+}

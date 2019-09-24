@@ -1,0 +1,21 @@
+Guide personnel sur l'utilisation de Google Maps Directions
+-----------------------------------------------------------
+
+Clef
+----
+AIzaSyDu9hpKn8i_rok-m5cG_415zAGHhigbHaA
+
+Commande
+--------
+https://maps.googleapis.com/maps/api/directions/xml?
+origin=1715+Chemin+de+la+Canardière+Québec
+&destination=1715+Chemin+de+la+Canardière+Québec
+&waypoints=optimize:true|5655+Boulevard+Henri-Bourassa|5200+Boulevard+Henri-Bourassa|7900+Boulevard+Henri-Bourassa+Quebec
+&key=AIzaSyDu9hpKn8i_rok-m5cG_415zAGHhigbHaA
+
+Ordre retournée
+---------------
+1715+Chemin+de+la+Canardière+Québec
+5200+Boulevard+Henri-Bourassa
+5655+Boulevard+Henri-Bourassa
+7900+Boulevard+Henri-Bourassa+Quebec

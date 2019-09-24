@@ -1,0 +1,12 @@
+/Users/Nadir/Desktop/Prog-Analyste/ProjetGit/C#App/CSharpApp/CSharpApp/bin/Debug/CSharpApp.exe
+/Users/Nadir/Desktop/Prog-Analyste/ProjetGit/C#App/CSharpApp/CSharpApp/bin/Debug/CSharpApp.pdb
+/Users/Nadir/Desktop/Prog-Analyste/ProjetGit/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.csprojAssemblyReference.cache
+/Users/Nadir/Desktop/Prog-Analyste/ProjetGit/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.csproj.CoreCompileInputs.cache
+/Users/Nadir/Desktop/Prog-Analyste/ProjetGit/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.exe
+/Users/Nadir/Desktop/Prog-Analyste/ProjetGit/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.pdb
+/Users/Nadir/Desktop/Prog-Analyste/Session 4/Taveaux Pratiques/Programmation en Réseau/TP4-NadirPelletier-AlixLelièvre/TP4_ProgrammationReseau_NPAL/C#App/CSharpApp/CSharpApp/bin/Debug/CSharpApp.exe
+/Users/Nadir/Desktop/Prog-Analyste/Session 4/Taveaux Pratiques/Programmation en Réseau/TP4-NadirPelletier-AlixLelièvre/TP4_ProgrammationReseau_NPAL/C#App/CSharpApp/CSharpApp/bin/Debug/CSharpApp.pdb
+/Users/Nadir/Desktop/Prog-Analyste/Session 4/Taveaux Pratiques/Programmation en Réseau/TP4-NadirPelletier-AlixLelièvre/TP4_ProgrammationReseau_NPAL/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.csprojAssemblyReference.cache
+/Users/Nadir/Desktop/Prog-Analyste/Session 4/Taveaux Pratiques/Programmation en Réseau/TP4-NadirPelletier-AlixLelièvre/TP4_ProgrammationReseau_NPAL/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.csproj.CoreCompileInputs.cache
+/Users/Nadir/Desktop/Prog-Analyste/Session 4/Taveaux Pratiques/Programmation en Réseau/TP4-NadirPelletier-AlixLelièvre/TP4_ProgrammationReseau_NPAL/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.exe
+/Users/Nadir/Desktop/Prog-Analyste/Session 4/Taveaux Pratiques/Programmation en Réseau/TP4-NadirPelletier-AlixLelièvre/TP4_ProgrammationReseau_NPAL/C#App/CSharpApp/CSharpApp/obj/Debug/CSharpApp.pdb
